@@ -29,7 +29,7 @@ After navigating to the correct folder, enter jupyter lab at the CLI.
 
 ## Usage
 
-Open the Jupyter Lab notebook titled crypto_arbitrage.ipynb and clik on the double right arrow button. This will run the computations for the notebook.
+Open the Jupyter Lab notebook titled https://github.com/toniahurst/FinTech_Module_4_Challenge/blob/main/risk_return_analysis.ipynb and clik on the double right arrow button. This will run the computations for the notebook.
 
 ![alt text](https://github.com/toniahurst/FinTech_Module_3_Challenge/blob/main/Mod_3_screenshot.png)
 
