@@ -63,7 +63,7 @@ In Fig. 8, this chart shows the Sharpe Ratios for the four funds and the S&P 500
 
 ![alt text](https://github.com/toniahurst/FinTech_Module_4_Challenge/blob/main/images/Fig_8.png)
 
-In Fig. 39, here, Berkshire Hathaway and Tiger Global Management are compared. Tiger Global Management is clearly less volatile than Berkshire Hathaway as measured by their betas.
+In Fig. 9, Berkshire Hathaway and Tiger Global Management are compared. Tiger Global Management is clearly less volatile than Berkshire Hathaway as measured by their betas.
 
 ![alt text](https://github.com/toniahurst/FinTech_Module_4_Challenge/blob/main/images/Fig_9.png)
 
