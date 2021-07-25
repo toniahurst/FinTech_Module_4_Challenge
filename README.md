@@ -1,5 +1,6 @@
 # FinTech_Module_4_Challenge
 
+In this module, four potential new investment options are considered for inclusion in a client portfolio. Using risk-management metrics inclduing the daily returns, standard deviations, Sharpe ratios, variance and covariance, and betas, quantitative analysts can cledarly see which potential option is the best for preservation of retriement funds.
 
 
 ---
