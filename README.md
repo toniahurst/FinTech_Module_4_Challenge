@@ -31,21 +31,39 @@ After navigating to the correct folder, enter jupyter lab at the CLI.
 
 Open the Jupyter Lab notebook at https://github.com/toniahurst/FinTech_Module_4_Challenge/blob/main/risk_return_analysis.ipynb or download the notebook and run from the CLI.
 
+In Fig. 1, we see a dew lines of data for the four funds and the S&P 500.
+
 ![alt text](https://github.com/toniahurst/FinTech_Module_4_Challenge/blob/main/images/Fig_1.png)
+
+The daily returns for all four funds and the S&P 500. At this level, it is difficult to get any real sense of individual performance.
 
 ![alt text](https://github.com/toniahurst/FinTech_Module_4_Challenge/blob/main/images/Fig_2.png)
 
+Plotting the four funds and the S&P 500 based on cumulative returns, we get a clearer picture of the funds and the index.
+
 ![alt text](https://github.com/toniahurst/FinTech_Module_4_Challenge/blob/main/images/Fig_3.png)
+
+In this box graph, we get a sense of the range of the daily returns. Here, the S&P 500 dominates the graph.
 
 ![alt text](https://github.com/toniahurst/FinTech_Module_4_Challenge/blob/main/images/Fig_4.png)
 
+Narrowing the field, this box graph shows the four dunds compared to each other.
+
 ![alt text](https://github.com/toniahurst/FinTech_Module_4_Challenge/blob/main/images/Fig_5.png)
+
+A 21 Day rolling window of the four funds and the S&P 500.
 
 ![alt text](https://github.com/toniahurst/FinTech_Module_4_Challenge/blob/main/images/Fig_6.png)
 
+A 21 Day rolling window of the four funds.
+
 ![alt text](https://github.com/toniahurst/FinTech_Module_4_Challenge/blob/main/images/Fig_7.png)
 
+The chart shows the Sharpe Ratios for the four funds and the S&P 500. 
+
 ![alt text](https://github.com/toniahurst/FinTech_Module_4_Challenge/blob/main/images/Fig_8.png)
+
+Here, Berkshire Hathaway and Tiger Global Management are compared. Tiger clearly is less volatile than Berkshire Hathaway as measured by their betas.
 
 ![alt text](https://github.com/toniahurst/FinTech_Module_4_Challenge/blob/main/images/Fig_9.png)
 
