@@ -29,9 +29,25 @@ After navigating to the correct folder, enter jupyter lab at the CLI.
 
 ## Usage
 
-Open the Jupyter Lab notebook titled https://github.com/toniahurst/FinTech_Module_4_Challenge/blob/main/risk_return_analysis.ipynb and clik on the double right arrow button. This will run the computations for the notebook.
+Open the Jupyter Lab notebook at https://github.com/toniahurst/FinTech_Module_4_Challenge/blob/main/risk_return_analysis.ipynb or download the notebook and run from the CLI.
 
-![alt text](https://github.com/toniahurst/FinTech_Module_3_Challenge/blob/main/Mod_3_screenshot.png)
+![alt text](https://github.com/toniahurst/FinTech_Module_4_Challenge/blob/main/images/Fig_1.png)
+
+![alt text](https://github.com/toniahurst/FinTech_Module_4_Challenge/blob/main/images/Fig_2.png)
+
+![alt text](https://github.com/toniahurst/FinTech_Module_4_Challenge/blob/main/images/Fig_3.png)
+
+![alt text](https://github.com/toniahurst/FinTech_Module_4_Challenge/blob/main/images/Fig_4.png)
+
+![alt text](https://github.com/toniahurst/FinTech_Module_4_Challenge/blob/main/images/Fig_5.png)
+
+![alt text](https://github.com/toniahurst/FinTech_Module_4_Challenge/blob/main/images/Fig_6.png)
+
+![alt text](https://github.com/toniahurst/FinTech_Module_4_Challenge/blob/main/images/Fig_7.png)
+
+![alt text](https://github.com/toniahurst/FinTech_Module_4_Challenge/blob/main/images/Fig_8.png)
+
+![alt text](https://github.com/toniahurst/FinTech_Module_4_Challenge/blob/main/images/Fig_9.png)
 
 ---
 
