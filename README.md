@@ -47,7 +47,7 @@ In Fig. 4, In this box graph, we get a sense of the range of the daily returns. 
 
 ![alt text](https://github.com/toniahurst/FinTech_Module_4_Challenge/blob/main/images/Fig_4.png)
 
-In Fig. 5, narrowing the field, this box graph shows the four dunds compared to each other.
+In Fig. 5, narrowing the field, this box graph shows the four funds compared to each other.
 
 ![alt text](https://github.com/toniahurst/FinTech_Module_4_Challenge/blob/main/images/Fig_5.png)
 
